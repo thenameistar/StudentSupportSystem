@@ -12,7 +12,7 @@ public class Meeting
 
         if (userRole == "Student")
         {
-            // Automatically fetch the supervisor's UserID for a student
+            //  fetch the supervisor's UserID for a student
             meetingWithUserId = GetPersonalSupervisorId(userId);
             Console.WriteLine("Booking a meeting with your Personal Supervisor.");
         }
