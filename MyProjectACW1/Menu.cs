@@ -53,7 +53,7 @@ public class Menu
         }
     }
 
-    // menu for personal supervisor options
+    // menu for ps options
     private static void DisplayPSMenu(int userId)
     {
         Console.WriteLine("personal supervisor menu:");
