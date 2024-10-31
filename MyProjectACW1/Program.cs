@@ -4,7 +4,7 @@ using System.Data.SQLite;
 
 class Program
 {
-    
+
     static void Main(string[] args)
     {
         // initializes the database if it hasn't been set up yet
