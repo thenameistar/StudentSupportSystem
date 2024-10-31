@@ -115,7 +115,7 @@ public class Menu
         }
     }
 
-    // method to return to the appropriate menu based on user role
+    // method to return to the appropriate menu based on user rolee
     public static void ReturnToMenu(string userRole, int userId)
     {
         switch (userRole)
